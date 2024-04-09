@@ -4,16 +4,21 @@
   "description": "Test Package",
   "main": "index.js",
   "scripts": {
+    "start": "node valpack",
     "test": "fall"
   },
   "repository": {
-   "type": "git",
-   "url": "git+https://github.com/JHobson316/npmPackage.git" 
+    "type": "git",
+    "url": "git+https://github.com/JHobson316/npmPackage.git"
   },
   "keywords": [
     "test",
     "valk"
   ],
   "author": "Jordan H.",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JHobson316/npmPackage/issues"
+  },
+  "homepage": "https://github.com/JHobson316/npmPackage#readme"
 }
