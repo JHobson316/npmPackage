@@ -6,8 +6,13 @@
   "scripts": {
     "test": "fall"
   },
+  "repository": {
+   "type": "git",
+   "url": "git+https://github.com/JHobson316/npmPackage.git" 
+  },
   "keywords": [
-    "test"
+    "test",
+    "valk"
   ],
   "author": "Jordan H.",
   "license": "ISC"
