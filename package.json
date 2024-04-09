@@ -1,0 +1,14 @@
+{
+  "name": "valpack",
+  "version": "1.0.0",
+  "description": "Test Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "fall"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Jordan H.",
+  "license": "ISC"
+}
